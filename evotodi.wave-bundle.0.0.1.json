@@ -1,0 +1,19 @@
+{
+	"manifests": {
+		"evotodi/wave-bundle": {
+			"manifest": {
+				"bundles": {
+					"Evotodi\\WaveBundle\\EvotodiWaveBundle": [
+						"all"
+					]
+				},
+				"env": {
+					"WAVEAPPS_ACCESS_TOKEN": "",
+					"WAVEAPPS_GRAPHQL_URI": "https://gql.waveapps.com/graphql/public",
+					"WAVEAPPS_BUSINESS_ID": ""
+				}
+			},
+			"ref": "c91d9f7c89d4635c5127f6cca32a6666e2a42b59"
+		}
+	}
+}

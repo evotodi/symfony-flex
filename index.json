@@ -4,10 +4,11 @@
 	},
 	"recipes": {
 		"evotodi/wave-bundle": [
-			"dev"
+			"dev",
+			"0.0.1"
 		]
 	},
-	"branch": "main",
+	"branch": "master",
 	"is_contrib": true,
 	"_links": {
 		"repository": "github.com/evotodi/symfony-flex",
