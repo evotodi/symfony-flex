@@ -1,0 +1,17 @@
+{
+	"aliases": {
+		"evotodi-wave": "evotodi/wave-bundle"
+	},
+	"recipes": {
+		"evotodi/wave-bundle": [
+			"dev"
+		]
+	},
+	"branch": "main",
+	"is_contrib": true,
+	"_links": {
+		"repository": "github.com/evotodi/symfony-flex",
+		"origin_template": "{package}:{version}@github.com/evotodi/symfony-flex:master",
+		"recipe_template": "https://api.github.com/repos/evotodi/symfony-flex/contents/{package_dotted}.{version}.json"
+	}
+}
